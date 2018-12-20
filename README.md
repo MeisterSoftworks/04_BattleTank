@@ -1,4 +1,4 @@
-#BattleTank
+# BattleTank
 CONCEPT
 A confection-themed open world tank game, where you pilot a sugary sweet vehicle of destruction and battle against CPU-controlled tanks. The terrain will have some hills but will largely be flat and peppered with tasty obstacles. Timing your shots in this game is crucial for victory in this game, as your opponents will likely not give you much time to consider your choices before blowing you sky-high.
 The game will utilize bright and cheery visuals to paint a magical color-filled environment, contrasted by a backdrop of hard-hitting SFX and screaming heavy metal music. Only one tank can reign supreme in the end, so a race to the last armor standing has begun!
