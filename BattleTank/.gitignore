@@ -2,7 +2,6 @@
 .vs/
 
 # Visual Studio 2015 database file
-*.VC.db
 
 # Compiled Object files
 *.slo
@@ -47,6 +46,7 @@
 # Precompiled Assets
 SourceArt/**/*.png
 SourceArt/**/*.tga
+*/StarterContent
 
 # Binary Files
 Binaries/*
